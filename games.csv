@@ -132,7 +132,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 ,NCHL,28185,165,VS - G,"Wed, Jun 24 2026",9:45 PM,BOW,AWAY,**Forfeit**,T,0.0,0.0
 113360,NCHL,28185,165,VS - G,"Thu, Jul 9 2026",9:45 PM,WEH,AWAY,Jaguars,W,4.0,1.0
 113375,NCHL,28185,165,VS - G,"Wed, Jul 15 2026",9:45 PM,BOW,HOME,Nightshift,W,2.0,1.0
-113381,NCHL,28185,165,VS - G,"Thu, Jul 16 2026",9:45 PM,BOW,HOME,Nightshift,,,
+113381,NCHL,28185,165,VS - G,"Thu, Jul 16 2026",9:45 PM,BOW,HOME,Nightshift,W,3.0,2.0
 113414,NCHL,28185,165,VS - G,"Sun, Jul 26 2026",9:45 PM,WEH,AWAY,Jaguars,,,
 113425,NCHL,28185,165,VS - G,"Wed, Jul 29 2026",8:15 PM,BOW,AWAY,Nightshift,,,
 111266,NCHL,30960,163,VS - H,"Mon, Sep 15 2025",10:15 PM,CRO,AWAY,Mammoth,W,4.0,1.0
