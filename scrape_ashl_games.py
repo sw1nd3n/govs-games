@@ -57,6 +57,9 @@ for team_id, label in ASHL_TEAMS:
                 "score_for": gm.get("home_team_score") if is_home else gm.get("visiting_team_score"),
                 "score_against": gm.get("visiting_team_score") if is_home else gm.get("home_team_score"),
                 "completed": done_flag,
+                "last_period": ((gm.get("current_period") or {}).get("period_type") or {}).get("name"),
+                "went_ot": ((gm.get("current_period") or {}).get("period_type") or {}).get("is_overtime"),
+                "shootout": gm.get("shootout"),
             })
             n += 1
         print(f"OK: {label} / {sname} — {n} games")
