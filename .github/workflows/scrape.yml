@@ -1,0 +1,31 @@
+name: Scrape game data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scrape_games.py
+      - run: python scrape_game_stats.py
+      - run: python scrape_ashl_games.py
+        env:
+          ASHL_SEED_TOKEN: ${{ secrets.ASHL_SEED_TOKEN }}
+      - name: Commit results
+        run: |
+          git config user.name "stats-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Game data refresh $(date -u +%F)"
+          git push
