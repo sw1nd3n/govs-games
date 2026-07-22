@@ -137,7 +137,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113334,NCHL,25649,165,VS - E,"Thu, Jul 2 2026",6:45 PM,BOW,HOME,Heat,L,5.0,0.0
 113355,NCHL,25649,165,VS - E,"Thu, Jul 9 2026",6:45 PM,BOW,AWAY,Atta Boy Blue,L,8.0,2.0
 113368,NCHL,25649,165,VS - E,"Mon, Jul 13 2026",8:15 PM,WEH,HOME,Seals,L,3.0,1.0
-113391,NCHL,25649,165,VS - E,"Mon, Jul 20 2026",6:45 PM,WEH,AWAY,Seal Team Sticks,,,
+113391,NCHL,25649,165,VS - E,"Mon, Jul 20 2026",6:45 PM,WEH,AWAY,Seal Team Sticks,L,7.0,5.0
 113410,NCHL,25649,165,VS - E,"Fri, Jul 24 2026",8:15 PM,WEH,AWAY,Tangerine Legion,,,
 113428,NCHL,25649,165,VS - E,"Wed, Jul 29 2026",8:15 PM,WEH,AWAY,Gangrene,,,
 99273,NCHL,25655,147,VS - F,"Fri, Sep 15 2023",10:30 PM,OVA,HOME,Mustangs,L,8.0,2.0
@@ -521,6 +521,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 32567,WRAHL,10828,118,VS - B,"Thu, Jul 2 2026",9:15 PM,FCA RED,HOME,Sasquatch,W,7.0,0.0
 32571,WRAHL,10828,118,VS - B,"Thu, Jul 16 2026",9:15 PM,FCA RED,AWAY,Goats,W,7.0,5.0
 32584,WRAHL,10828,118,VS - B,"Thu, Jul 23 2026",9:15 PM,FCA RED,HOME,Iceotopes,,,
+32604,WRAHL,10828,119,VS - B,"Mon, Jul 27 2026",9:00 PM,FCA RED,AWAY,Goats,,,
 29762,WRAHL,11835,109,VS - A,"Thu, Apr 24 2025",9:30 PM,FCA RED,AWAY,The Missiles,W,6.0,4.0
 29764,WRAHL,11835,109,VS - A,"Thu, May 1 2025",9:15 PM,FCA RED,HOME,Boomtown Bandits,W,5.0,3.0
 30091,WRAHL,11835,109,VS - A,"Thu, May 8 2025",10:45 PM,FCA RED,AWAY,Crown Royals,L,12.0,9.0
