@@ -277,7 +277,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113338,NCHL,25655,165,VS - F,"Thu, Jul 2 2026",8:15 PM,WEH,AWAY,Lumberjacked,W,5.0,4.0
 113358,NCHL,25655,165,VS - F,"Thu, Jul 9 2026",6:45 PM,WEH,HOME,Big Duck Energy,W,4.0,1.0
 113371,NCHL,25655,165,VS - F,"Tue, Jul 14 2026",8:15 PM,WEH,AWAY,Green Bastards,W,3.0,1.0
-113394,NCHL,25655,165,VS - F,"Tue, Jul 21 2026",6:45 PM,WEH,AWAY,Beers North,,,
+113394,NCHL,25655,165,VS - F,"Tue, Jul 21 2026",6:45 PM,WEH,AWAY,Beers North,OTL,4.0,3.0
 113412,NCHL,25655,165,VS - F,"Sun, Jul 26 2026",6:45 PM,WEH,HOME,Vice Ice,,,
 113431,NCHL,25655,165,VS - F,"Thu, Jul 30 2026",8:15 PM,BOW,HOME,Lumberjacked,,,
 104154,NCHL,28185,155,VS - G,"Thu, Sep 12 2024",9:45 PM,WEH,AWAY,Green Bastards,T,2.0,2.0
@@ -596,6 +596,6 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 11562,ASUMMERHL,3020,64,VS - A,"Mon, Jul 13 2026",9:30 PM,FCAB,AWAY,Dark Knights,L,11.0,6.0
 11567,ASUMMERHL,3020,64,VS - A,"Tue, Jul 14 2026",8:00 PM,FCAB,HOME,Boreal Oilsands Service,L,9.0,7.0
 11580,ASUMMERHL,3020,64,VS - A,"Mon, Jul 20 2026",8:00 PM,FCAB,AWAY,Icehawks,W,9.0,6.0
-11583,ASUMMERHL,3020,64,VS - A,"Tue, Jul 21 2026",9:30 PM,FCAB,HOME,Goldmembers,,,
+11583,ASUMMERHL,3020,64,VS - A,"Tue, Jul 21 2026",9:30 PM,FCAB,HOME,Goldmembers,L,8.0,2.0
 11596,ASUMMERHL,3020,64,VS - A,"Mon, Jul 27 2026",9:30 PM,FCAB,HOME,Dark Knights,,,
 11604,ASUMMERHL,3020,64,VS - A,"Wed, Jul 29 2026",9:30 PM,FCAB,AWAY,Boreal Oilsands Service,,,
