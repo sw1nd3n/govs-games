@@ -520,7 +520,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 32545,WRAHL,10828,118,VS - B,"Thu, Jun 25 2026",6:45 PM,SET (B),AWAY,ScreamingEagles,W,12.0,4.0
 32567,WRAHL,10828,118,VS - B,"Thu, Jul 2 2026",9:15 PM,FCA RED,HOME,Sasquatch,W,7.0,0.0
 32571,WRAHL,10828,118,VS - B,"Thu, Jul 16 2026",9:15 PM,FCA RED,AWAY,Goats,W,7.0,5.0
-32584,WRAHL,10828,118,VS - B,"Thu, Jul 23 2026",9:15 PM,FCA RED,HOME,Iceotopes,,,
+32584,WRAHL,10828,118,VS - B,"Thu, Jul 23 2026",9:15 PM,FCA RED,HOME,Iceotopes,L,5.0,3.0
 32604,WRAHL,10828,119,VS - B,"Mon, Jul 27 2026",9:00 PM,FCA RED,AWAY,Goats,,,
 29762,WRAHL,11835,109,VS - A,"Thu, Apr 24 2025",9:30 PM,FCA RED,AWAY,The Missiles,W,6.0,4.0
 29764,WRAHL,11835,109,VS - A,"Thu, May 1 2025",9:15 PM,FCA RED,HOME,Boomtown Bandits,W,5.0,3.0
