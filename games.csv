@@ -278,7 +278,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113358,NCHL,25655,165,VS - F,"Thu, Jul 9 2026",6:45 PM,WEH,HOME,Big Duck Energy,W,4.0,1.0
 113371,NCHL,25655,165,VS - F,"Tue, Jul 14 2026",8:15 PM,WEH,AWAY,Green Bastards,W,3.0,1.0
 113394,NCHL,25655,165,VS - F,"Tue, Jul 21 2026",6:45 PM,WEH,AWAY,Beers North,OTL,4.0,3.0
-113412,NCHL,25655,165,VS - F,"Sun, Jul 26 2026",6:45 PM,WEH,HOME,Vice Ice,,,
+113412,NCHL,25655,165,VS - F,"Sun, Jul 26 2026",6:45 PM,WEH,HOME,Vice Ice,W,6.0,2.0
 113431,NCHL,25655,165,VS - F,"Thu, Jul 30 2026",8:15 PM,BOW,HOME,Lumberjacked,,,
 104154,NCHL,28185,155,VS - G,"Thu, Sep 12 2024",9:45 PM,WEH,AWAY,Green Bastards,T,2.0,2.0
 104253,NCHL,28185,155,VS - G,"Sat, Sep 21 2024",10:00 PM,OVA,HOME,Bulls,L,7.0,0.0
@@ -371,7 +371,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113360,NCHL,28185,165,VS - G,"Thu, Jul 9 2026",9:45 PM,WEH,AWAY,Jaguars,W,4.0,1.0
 113375,NCHL,28185,165,VS - G,"Wed, Jul 15 2026",9:45 PM,BOW,HOME,Nightshift,W,2.0,1.0
 113381,NCHL,28185,165,VS - G,"Thu, Jul 16 2026",9:45 PM,BOW,HOME,Nightshift,W,3.0,2.0
-113414,NCHL,28185,165,VS - G,"Sun, Jul 26 2026",9:45 PM,WEH,AWAY,Jaguars,,,
+113414,NCHL,28185,165,VS - G,"Sun, Jul 26 2026",9:45 PM,WEH,AWAY,Jaguars,W,5.0,1.0
 113425,NCHL,28185,165,VS - G,"Wed, Jul 29 2026",8:15 PM,BOW,AWAY,Nightshift,,,
 111266,NCHL,30960,163,VS - H,"Mon, Sep 15 2025",10:15 PM,CRO,AWAY,Mammoth,W,4.0,1.0
 111270,NCHL,30960,163,VS - H,"Wed, Sep 17 2025",9:15 PM,RKY,HOME,Parking Lot Bears,OTL,2.0,1.0
@@ -521,7 +521,8 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 32567,WRAHL,10828,118,VS - B,"Thu, Jul 2 2026",9:15 PM,FCA RED,HOME,Sasquatch,W,7.0,0.0
 32571,WRAHL,10828,118,VS - B,"Thu, Jul 16 2026",9:15 PM,FCA RED,AWAY,Goats,W,7.0,5.0
 32584,WRAHL,10828,118,VS - B,"Thu, Jul 23 2026",9:15 PM,FCA RED,HOME,Iceotopes,L,5.0,3.0
-32604,WRAHL,10828,119,VS - B,"Mon, Jul 27 2026",9:00 PM,FCA RED,AWAY,Goats,,,
+32604,WRAHL,10828,119,VS - B,"Mon, Jul 27 2026",9:00 PM,FCA RED,AWAY,Goats,W,7.0,5.0
+32614,WRAHL,10828,119,VS - B,"Tue, Aug 4 2026",7:30 PM,SCS,AWAY,TBA1,,,
 29762,WRAHL,11835,109,VS - A,"Thu, Apr 24 2025",9:30 PM,FCA RED,AWAY,The Missiles,W,6.0,4.0
 29764,WRAHL,11835,109,VS - A,"Thu, May 1 2025",9:15 PM,FCA RED,HOME,Boomtown Bandits,W,5.0,3.0
 30091,WRAHL,11835,109,VS - A,"Thu, May 8 2025",10:45 PM,FCA RED,AWAY,Crown Royals,L,12.0,9.0
@@ -597,5 +598,5 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 11567,ASUMMERHL,3020,64,VS - A,"Tue, Jul 14 2026",8:00 PM,FCAB,HOME,Boreal Oilsands Service,L,9.0,7.0
 11580,ASUMMERHL,3020,64,VS - A,"Mon, Jul 20 2026",8:00 PM,FCAB,AWAY,Icehawks,W,9.0,6.0
 11583,ASUMMERHL,3020,64,VS - A,"Tue, Jul 21 2026",9:30 PM,FCAB,HOME,Goldmembers,L,8.0,2.0
-11596,ASUMMERHL,3020,64,VS - A,"Mon, Jul 27 2026",9:30 PM,FCAB,HOME,Dark Knights,,,
+11596,ASUMMERHL,3020,64,VS - A,"Mon, Jul 27 2026",9:30 PM,FCAB,HOME,Dark Knights,L,16.0,9.0
 11604,ASUMMERHL,3020,64,VS - A,"Wed, Jul 29 2026",9:30 PM,FCAB,AWAY,Boreal Oilsands Service,,,
