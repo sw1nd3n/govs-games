@@ -140,6 +140,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113391,NCHL,25649,165,VS - E,"Mon, Jul 20 2026",6:45 PM,WEH,AWAY,Seal Team Sticks,L,7.0,5.0
 113410,NCHL,25649,165,VS - E,"Fri, Jul 24 2026",8:15 PM,WEH,AWAY,Tangerine Legion,L,5.0,1.0
 113428,NCHL,25649,165,VS - E,"Wed, Jul 29 2026",8:15 PM,WEH,AWAY,Gangrene,L,3.0,2.0
+113939,NCHL,25649,166,VS - E,"Wed, Aug 5 2026",6:45 PM,WEH,AWAY,Gangrene,,,
 99273,NCHL,25655,147,VS - F,"Fri, Sep 15 2023",10:30 PM,OVA,HOME,Mustangs,L,8.0,2.0
 99287,NCHL,25655,147,VS - F,"Mon, Sep 18 2023",10:15 PM,CRO,AWAY,One Man Wolf Pack HC,L,6.0,1.0
 99439,NCHL,25655,147,VS - F,"Thu, Sep 28 2023",9:45 PM,WEH,AWAY,Crush,L,8.0,6.0
@@ -280,6 +281,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113394,NCHL,25655,165,VS - F,"Tue, Jul 21 2026",6:45 PM,WEH,AWAY,Beers North,OTL,4.0,3.0
 113412,NCHL,25655,165,VS - F,"Sun, Jul 26 2026",6:45 PM,WEH,HOME,Vice Ice,W,6.0,2.0
 113431,NCHL,25655,165,VS - F,"Thu, Jul 30 2026",8:15 PM,BOW,HOME,Lumberjacked,W,9.0,0.0
+,NCHL,25655,166,VS - F,"Sat, Aug 8 2026",7:45 PM,WEH,HOME,Winner Game 3,,,
 104154,NCHL,28185,155,VS - G,"Thu, Sep 12 2024",9:45 PM,WEH,AWAY,Green Bastards,T,2.0,2.0
 104253,NCHL,28185,155,VS - G,"Sat, Sep 21 2024",10:00 PM,OVA,HOME,Bulls,L,7.0,0.0
 104297,NCHL,28185,155,VS - G,"Thu, Oct 3 2024",9:45 PM,WEH,HOME,Green Bastards,L,7.0,2.0
@@ -373,6 +375,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113381,NCHL,28185,165,VS - G,"Thu, Jul 16 2026",9:45 PM,BOW,HOME,Nightshift,W,3.0,2.0
 113414,NCHL,28185,165,VS - G,"Sun, Jul 26 2026",9:45 PM,WEH,AWAY,Jaguars,W,5.0,1.0
 113425,NCHL,28185,165,VS - G,"Wed, Jul 29 2026",8:15 PM,BOW,AWAY,Nightshift,W,3.0,1.0
+113890,NCHL,28185,166,VS - G,"Mon, Aug 10 2026",6:45 PM,WEH,HOME,26ers,,,
 111266,NCHL,30960,163,VS - H,"Mon, Sep 15 2025",10:15 PM,CRO,AWAY,Mammoth,W,4.0,1.0
 111270,NCHL,30960,163,VS - H,"Wed, Sep 17 2025",9:15 PM,RKY,HOME,Parking Lot Bears,OTL,2.0,1.0
 110982,NCHL,30960,163,VS - H,"Thu, Sep 25 2025",9:45 PM,WEH,AWAY,Green Bastards,W,2.0,1.0
