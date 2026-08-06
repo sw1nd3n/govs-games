@@ -140,7 +140,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113391,NCHL,25649,165,VS - E,"Mon, Jul 20 2026",6:45 PM,WEH,AWAY,Seal Team Sticks,L,7.0,5.0
 113410,NCHL,25649,165,VS - E,"Fri, Jul 24 2026",8:15 PM,WEH,AWAY,Tangerine Legion,L,5.0,1.0
 113428,NCHL,25649,165,VS - E,"Wed, Jul 29 2026",8:15 PM,WEH,AWAY,Gangrene,L,3.0,2.0
-113939,NCHL,25649,166,VS - E,"Wed, Aug 5 2026",6:45 PM,WEH,AWAY,Gangrene,,,
+113939,NCHL,25649,166,VS - E,"Wed, Aug 5 2026",6:45 PM,WEH,AWAY,Gangrene,L,10.0,1.0
 99273,NCHL,25655,147,VS - F,"Fri, Sep 15 2023",10:30 PM,OVA,HOME,Mustangs,L,8.0,2.0
 99287,NCHL,25655,147,VS - F,"Mon, Sep 18 2023",10:15 PM,CRO,AWAY,One Man Wolf Pack HC,L,6.0,1.0
 99439,NCHL,25655,147,VS - F,"Thu, Sep 28 2023",9:45 PM,WEH,AWAY,Crush,L,8.0,6.0
@@ -433,8 +433,8 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 27675,WRAHL,10828,101,VS - B,"Sat, Jan 20 2024",9:30 PM,MPA,AWAY,Devils Brigade,SOL,4.0,3.0
 27382,WRAHL,10828,101,VS - B,"Fri, Jan 26 2024",8:45 PM,SET (A),HOME,Mighty Pucks,L,8.0,1.0
 27405,WRAHL,10828,101,VS - B,"Mon, Jan 29 2024",9:00 PM,WSRC,AWAY,Vipers,L,7.0,4.0
-27723,WRAHL,10828,101,VS - B,"Tue, Feb 6 2024",8:45 PM,VIVO,HOME,Sabres,W,8.0,4.0
-27359,WRAHL,10828,101,VS - B,"Tue, Feb 20 2024",8:45 PM,VIVO,AWAY,Vikings,W,9.0,2.0
+27723,WRAHL,10828,101,VS - B,"Tue, Feb 6 2024",8:45 PM,VIVO 1,HOME,Sabres,W,8.0,4.0
+27359,WRAHL,10828,101,VS - B,"Tue, Feb 20 2024",8:45 PM,VIVO 1,AWAY,Vikings,W,9.0,2.0
 27377,WRAHL,10828,101,VS - B,"Fri, Feb 23 2024",9:15 PM,JSA,HOME,Calgary Knights,OTL,3.0,2.0
 27787,WRAHL,10828,101,VS - B,"Thu, Feb 29 2024",9:00 PM,BOW,AWAY,Dragons,L,5.0,1.0
 27436,WRAHL,10828,101,VS - B,"Mon, Mar 4 2024",9:00 PM,WSRC,HOME,Blues,W,7.0,1.0
@@ -446,7 +446,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 27907,WRAHL,10828,103,VS - B,"Sun, Apr 7 2024",12:30 PM,Triwood,HOME,Sabres,L,5.0,2.0
 27910,WRAHL,10828,103,VS - B,"Tue, Apr 9 2024",9:45 PM,RR,HOME,Dragons,L,6.0,5.0
 28209,WRAHL,10828,106,VS - B,"Thu, Sep 5 2024",9:45 PM,MPA,HOME,Calgary Cowboys,W,6.0,0.0
-28251,WRAHL,10828,106,VS - B,"Tue, Sep 10 2024",8:45 PM,VIVO,AWAY,Old Milwaukee Stumblers,W,3.0,2.0
+28251,WRAHL,10828,106,VS - B,"Tue, Sep 10 2024",8:45 PM,VIVO 1,AWAY,Old Milwaukee Stumblers,W,3.0,2.0
 28288,WRAHL,10828,107,VS - B,"Mon, Sep 16 2024",9:00 PM,WSRC,HOME,Vipers,W,3.0,0.0
 28573,WRAHL,10828,107,VS - B,"Thu, Sep 19 2024",9:45 PM,OVAL,HOME,Vikings,W,6.0,3.0
 28618,WRAHL,10828,107,VS - B,"Thu, Sep 26 2024",9:45 PM,OVAL,AWAY,Old Milwaukee Stumblers,W,6.0,2.0
@@ -472,7 +472,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 29357,WRAHL,10828,107,VS - B,"Sat, Feb 22 2025",7:45 PM,CHA RED,HOME,Chiefs Hackey,L,6.0,1.0
 29164,WRAHL,10828,107,VS - B,"Thu, Feb 27 2025",10:15 PM,OAK,AWAY,Slew Footers,L,6.0,3.0
 29368,WRAHL,10828,107,VS - B,"Tue, Mar 4 2025",10:00 PM,RR,AWAY,Blades of Glory,L,5.0,3.0
-29413,WRAHL,10828,107,VS - B,"Tue, Mar 11 2025",8:45 PM,VIVO,AWAY,Calgary Crackin,L,5.0,0.0
+29413,WRAHL,10828,107,VS - B,"Tue, Mar 11 2025",8:45 PM,VIVO 1,AWAY,Calgary Crackin,L,5.0,0.0
 29096,WRAHL,10828,107,VS - B,"Sun, Mar 16 2025",8:30 PM,NESS (W),AWAY,Marshalls,L,6.0,3.0
 29131,WRAHL,10828,107,VS - B,"Thu, Mar 20 2025",6:45 PM,BOW,HOME,Dragons,W,5.0,3.0
 29464,WRAHL,10828,107,VS - B,"Mon, Mar 24 2025",10:00 PM,RR,HOME,Bounty Hunters,W,8.0,7.0
@@ -489,7 +489,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 30881,WRAHL,10828,114,VS - B,"Thu, Nov 6 2025",10:15 PM,OAK,HOME,Slew Footers,W,10.0,3.0
 30540,WRAHL,10828,114,VS - B,"Sun, Nov 16 2025",9:45 PM,Triwood,HOME,Mountaineers,L,10.0,3.0
 30556,WRAHL,10828,114,VS - B,"Wed, Nov 19 2025",10:30 PM,FCA RED,HOME,Labatt Lumberjacks,W,4.0,3.0
-30933,WRAHL,10828,114,VS - B,"Tue, Nov 25 2025",8:45 PM,VIVO,AWAY,Dips & Rips,OTL,7.0,6.0
+30933,WRAHL,10828,114,VS - B,"Tue, Nov 25 2025",8:45 PM,VIVO 1,AWAY,Dips & Rips,OTL,7.0,6.0
 30980,WRAHL,10828,114,VS - B,"Thu, Dec 4 2025",9:00 PM,BOW,HOME,Dragons,L,5.0,2.0
 30653,WRAHL,10828,114,VS - B,"Sun, Dec 7 2025",6:45 PM,SET (B),AWAY,Marshalls,L,5.0,4.0
 30985,WRAHL,10828,114,VS - B,"Sun, Dec 14 2025",6:45 PM,SET (B),HOME,Mighty Pucks,W,3.0,2.0
