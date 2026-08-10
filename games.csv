@@ -281,7 +281,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 113394,NCHL,25655,165,VS - F,"Tue, Jul 21 2026",6:45 PM,WEH,AWAY,Beers North,OTL,4.0,3.0
 113412,NCHL,25655,165,VS - F,"Sun, Jul 26 2026",6:45 PM,WEH,HOME,Vice Ice,W,6.0,2.0
 113431,NCHL,25655,165,VS - F,"Thu, Jul 30 2026",8:15 PM,BOW,HOME,Lumberjacked,W,9.0,0.0
-,NCHL,25655,166,VS - F,"Sat, Aug 8 2026",7:45 PM,WEH,HOME,Green Bastards,W,4.0,3.0
+113949,NCHL,25655,166,VS - F,"Sat, Aug 8 2026",7:45 PM,WEH,HOME,Green Bastards,W,4.0,3.0
 113953,NCHL,25655,166,VS - F,"Wed, Aug 12 2026",6:45 PM,WEH,HOME,Beers North,,,
 104154,NCHL,28185,155,VS - G,"Thu, Sep 12 2024",9:45 PM,WEH,AWAY,Green Bastards,T,2.0,2.0
 104253,NCHL,28185,155,VS - G,"Sat, Sep 21 2024",10:00 PM,OVA,HOME,Bulls,L,7.0,0.0
