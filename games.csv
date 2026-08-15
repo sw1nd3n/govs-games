@@ -527,7 +527,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 32571,WRAHL,10828,118,VS - B,"Thu, Jul 16 2026",9:15 PM,FCA RED,AWAY,Goats,W,7,5
 32584,WRAHL,10828,118,VS - B,"Thu, Jul 23 2026",9:15 PM,FCA RED,HOME,Iceotopes,L,5,3
 32604,WRAHL,10828,119,VS - B,"Mon, Jul 27 2026",9:00 PM,FCA RED,AWAY,Goats,W,7,5
-32614,WRAHL,10828,119,VS - B,"Tue, Aug 4 2026",7:30 PM,SCS,AWAY,BET99 Crafty Bastards,W,7,3
+32614,WRAHL,10828,119,VS - B,"Tue, Aug 4 2026",7:30 PM,SCS 1,AWAY,BET99 Crafty Bastards,W,7,3
 32606,WRAHL,10828,119,VS - B,"Tue, Aug 11 2026",9:45 PM,SET (B),AWAY,ScreamingEagles,W,5,4
 29762,WRAHL,11835,109,VS - A,"Thu, Apr 24 2025",9:30 PM,FCA RED,AWAY,The Missiles,W,6,4
 29764,WRAHL,11835,109,VS - A,"Thu, May 1 2025",9:15 PM,FCA RED,HOME,Boomtown Bandits,W,5,3
@@ -564,7 +564,7 @@ game_id,league,team_id,season_id,label,date,time,arena,home_away,opponent,result
 31747,WRAHL,11835,114,VS - A,"Sun, Jan 11 2026",8:45 PM,FCA RED,HOME,Wranglers,W,10,6
 32314,WRAHL,11835,114,VS - A,"Fri, Jan 16 2026",9:30 PM,Triwood,AWAY,The War Elephants,W,11,8
 31854,WRAHL,11835,114,VS - A,"Tue, Jan 20 2026",9:15 PM,HH,HOME,Purple Cobras,L,10,6
-31966,WRAHL,11835,114,VS - A,"Wed, Jan 28 2026",10:30 PM,SCS,AWAY,Purple Cobras,L,10,0
+31966,WRAHL,11835,114,VS - A,"Wed, Jan 28 2026",10:30 PM,SCS 1,AWAY,Purple Cobras,L,10,0
 32164,WRAHL,11835,114,VS - A,"Tue, Feb 10 2026",9:45 PM,RR,HOME,Wranglers,L,5,3
 32188,WRAHL,11835,114,VS - A,"Sat, Feb 14 2026",9:15 PM,JSA,AWAY,Troglodytes,L,5,2
 31910,WRAHL,11835,114,VS - A,"Mon, Feb 23 2026",10:30 PM,FCA RED,AWAY,Dusters,L,8,6
