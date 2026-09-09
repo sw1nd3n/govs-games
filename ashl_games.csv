@@ -1,7 +1,7 @@
 game_id,league,team_id,label,season_id,season_name,date,home_away,opponent,opponent_id,score_for,score_against,completed,last_period,went_ot,shootout
 dmuqlS8joPUAgNCM,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-05T03:30:00+00:00,HOME,Grey Goose,wDVYIcwWon4vIgQC,6.0,4.0,True,3rd,False,False
 OzXlddA2tONnnC8E,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-06T21:25:00+00:00,HOME,Looney Goons,h5aF7USNiryI8LPs,6.0,5.0,True,OT1,True,False
-PL8COdLw7eLI4YNx,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-09T01:45:00+00:00,AWAY,Bisons,FDEZ25Q5R3K0TCpa,,,False,,,False
+PL8COdLw7eLI4YNx,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-09T01:45:00+00:00,AWAY,Bisons,FDEZ25Q5R3K0TCpa,5.0,3.0,True,3rd,False,False
 TDUkciFLFpU6cjZn,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-16T03:30:00+00:00,HOME,Crimson Tide,Pqhvkx1nCq1kLiVn,,,False,,,False
 t6kHLoHT5GKplZxM,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-22T02:00:00+00:00,HOME,Fighter Jets,6FazGMc9Bt6H5aOL,,,False,,,False
 SMg3npHSqXnWTWoq,ASHL,1S9vxCG4ogfXwn8U,VS - C,nORw0ASZozq6BqR8,D2 DIVISION,2026-09-29T04:45:00+00:00,AWAY,Dirty Hoe’rs,xkRWeXM1gl1lA09J,,,False,,,False
